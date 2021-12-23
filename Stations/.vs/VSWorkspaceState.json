@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Cameras",
+    "\\Cameras\\Entities",
+    "\\PeopleCount",
+    "\\PeopleCount\\Entities",
+    "\\Stations",
+    "\\Stations\\Entities"
+  ],
+  "SelectedNode": "\\Cameras\\Entities\\CameraEntity.cs",
+  "PreviewInSolutionExplorer": false
+}

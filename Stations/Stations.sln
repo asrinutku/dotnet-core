@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stations", "Stations\Stations.csproj", "{ACED7FA8-E7E4-4459-AC39-843D6BAE4B71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleCount", "PeopleCount\PeopleCount.csproj", "{70E48903-9F15-4200-A02B-A46626703440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cameras", "Cameras\Cameras.csproj", "{053E6DCF-B9A3-4815-9B30-B53CDFBEEF3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACED7FA8-E7E4-4459-AC39-843D6BAE4B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACED7FA8-E7E4-4459-AC39-843D6BAE4B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACED7FA8-E7E4-4459-AC39-843D6BAE4B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACED7FA8-E7E4-4459-AC39-843D6BAE4B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E48903-9F15-4200-A02B-A46626703440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E48903-9F15-4200-A02B-A46626703440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E48903-9F15-4200-A02B-A46626703440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E48903-9F15-4200-A02B-A46626703440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{053E6DCF-B9A3-4815-9B30-B53CDFBEEF3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053E6DCF-B9A3-4815-9B30-B53CDFBEEF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053E6DCF-B9A3-4815-9B30-B53CDFBEEF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053E6DCF-B9A3-4815-9B30-B53CDFBEEF3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7076EECA-2172-4AF3-9B81-7888426170D5}
+	EndGlobalSection
+EndGlobal
